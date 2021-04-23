@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<patient>
+    <name>Jhon</name>
+    <phoneNumber>6311111111</phoneNumber>
+    <age>85</age>
+    <drugs>
+        <drug>
+            <name>abc</name>
+            <dose>100MG</dose>
+        </drug>
+        <drug>
+            <name>xyz</name>
+            <dose>70MG</dose>
+        </drug>
+    </drugs>
+</patient>

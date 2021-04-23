@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<patient>
+    <name>Marin</name>
+    <phoneNumber>7311111111</phoneNumber>
+    <age>50</age>
+    <drugs>
+        <drug>
+            <name>gef</name>
+            <dose>100MG</dose>
+        </drug>
+        <drug>
+            <name>qwe</name>
+            <dose>70MG</dose>
+        </drug>
+    </drugs>
+</patient>
